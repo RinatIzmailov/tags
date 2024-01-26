@@ -37,9 +37,10 @@ body {
 }
 
 .block {
-	b
+	background: url(/tags/css5/img/kot.jpg) right top no-repeat;
+	background: url(/tags/css5/img/images.jpg) left top no-repeat;
 	height: 500px;
 	width: 1500px;
  	border-radius: 15px;
- 	box-shadow: 0 0 10px green;
+ 	box-shadow: 0 0 10px red;
 }
